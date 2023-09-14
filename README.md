@@ -30,6 +30,8 @@ Developer/Designer
 <img align="center" alt="Rafa-Vue" width="26px" src="https://i.pinimg.com/originals/f5/32/57/f532571da1fe9af84b95e3db5e79d4c3.png" />
 <br>
 
+### Now Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
  ## Social Media:
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-perez-8160b3251/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rafaa_per3z/) 
