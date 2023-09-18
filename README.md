@@ -1,6 +1,6 @@
 ## Ola sou Rafael Perez 👋
 Developer/Designer
-<p>🌠Sou apaixonado por tecnologia, design pelo espaco</p>
+<p>🌠Sou apaixonado por tecnologia, design e pelo espaco</p>
 <p>👨‍🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas na Fatec</p>
 <br>
 
