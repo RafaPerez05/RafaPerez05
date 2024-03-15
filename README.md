@@ -9,7 +9,7 @@
 
 <br>
 
-## Lenguages:
+## Skills:
 <div style="display: inline_block"><br>
    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,vue,mysql,mongodb,github,python" />
 </div>
