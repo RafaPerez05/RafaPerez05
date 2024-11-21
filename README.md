@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mim:
 - **Developer/Designer**  
-- 🌠 **Apaixonado por tecnologia, design e pelo espaço sideral**  
+- 🌠 **Apaixonado por tecnologia, design e pelo espaço**  
 - 👨‍🎓 **Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente**
   
 
@@ -22,18 +22,15 @@
 ---
 
 ## 🛠 **Skills**:
-<div style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,vue,mysql,mongodb,github,python,react" />
+<div align="center"><br>
+   <img src="https://skillicons.dev/icons?i=css,js,php,cs,vue,mysql,mongodb,firebase,github,python,nodejs,react" />
 </div>
 
 ---
 
 ## 🎨 **Softwares**:
-<div>
-  <img alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img alt="Illustrator" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true" />
-  <img alt="Photoshop" width="48px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true" />
-  <img alt="Corel Draw" width="48px" src="https://cracklicensekey.org/wp-content/uploads/2022/09/1553188286_coreldraw-graphics-su.png" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,postman,unity,vscode" />
 </div>
 
 ---
