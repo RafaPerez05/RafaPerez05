@@ -10,14 +10,6 @@
 - 🌠 **Apaixonado por tecnologia, design e pelo espaço sideral**  
 - 👨‍🎓 **Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente**
   
----
-
-<div align="center">
-
-![RafaPerez05 github stats](https://github-readme-stats.vercel.app/api?username=RafaPerez05&show_icons=true&line_height=40&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)&nbsp;&nbsp;
-![RafaPerez05 Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaPerez05&showcolor=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide=html,hack,blade)
-
-</div>
 
 ---
 
