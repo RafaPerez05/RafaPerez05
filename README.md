@@ -13,15 +13,18 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Space GIF" width="100%" />
+
+![RafaPerez05 github stats](https://github-readme-stats.vercel.app/api?username=RafaPerez05&show_icons=true&line_height=40&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)&nbsp;&nbsp;
+![RafaPerez05 Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafaPerez05&showcolor=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&hide=html,hack,blade)
+
 </div>
 
 ---
 
 ## 🌟 **Meus Status no GitHub:**
 <div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=RafaPerez05&theme=react&show_icons=true' height='300px' width='500px' /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPerez05&layout=donut&react&hide=html,hack,blade' height='300px' width='350px' />
+  <img src='https://github-readme-stats.vercel.app/api?username=RafaPerez05&theme=react&show_icons=true' height='300px' width='500px' /> &nbsp;&nbsp;
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPerez05&layout=donut&theme=react&hide=html,hack,blade' height='300px' width='350px' />
 </div>
 
 ---
