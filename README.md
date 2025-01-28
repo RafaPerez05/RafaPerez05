@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Bem-vindo ao meu universo de códigos! ✨</h1>
+  <h1>✨ Bem-vindo ✨</h1>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="600px" />
 </div>
 
