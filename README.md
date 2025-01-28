@@ -8,7 +8,7 @@
 ## 🚀 Sobre Mim:
 - **Developer/Designer**  
 - 🌠 **Apaixonado por tecnologia, design e pelo espaço**  
-- 👨‍🎓 **Cursando Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente**
+- 👨‍🎓 **Formado em Análise e Desenvolvimento de Sistemas na Fatec de Presidente Prudente**
   
 
 ---
